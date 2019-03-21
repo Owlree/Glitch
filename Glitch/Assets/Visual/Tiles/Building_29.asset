@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SkyTile
+  m_Name: Building_29
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 93b48e53ec9776b4aba6ca99970bdf5d, type: 3}
+  m_Sprite: {fileID: 21300058, guid: 6d042957ad39ae146b74bd276c47ad15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
