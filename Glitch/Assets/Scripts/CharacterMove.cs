@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CharacterMove : MonoBehaviour
+public class CharacterMove: MonoBehaviour
 {
     void FixedUpdate()
     {
